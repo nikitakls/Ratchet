@@ -1,5 +1,5 @@
 {
-    "name": "cboden/ratchet"
+    "name": "nikitakls/ratchet"
   , "type": "library"
   , "description": "PHP WebSocket library"
   , "keywords": ["WebSockets", "Server", "Ratchet", "Sockets", "WebSocket"]
@@ -26,7 +26,7 @@
         }
     }
   , "require": {
-        "php": ">=5.4.2"
+        "php": ">=7.0.0"
       , "ratchet/rfc6455": "^0.3.1"
       , "react/socket": "^1.0 || ^0.8 || ^0.7 || ^0.6 || ^0.5"
       , "react/event-loop": ">=0.4"
